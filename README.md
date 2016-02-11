@@ -1,2 +1,2 @@
-# tinning
-image compress
+# tinypng站点图片压缩API的具体实现
+实现图片压缩功能，前端开发环境的配套工具之一
